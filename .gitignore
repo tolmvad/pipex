@@ -1,0 +1,8 @@
+.gitignore
+*.out
+.vscode
+*.o
+.heredoc_tmp
+pipex
+outfile
+test
