@@ -1,7 +1,7 @@
 ![eng](img/eng.png) [![ru](img/ru.png)](README.ru.md)
 # `pipex`
 
-The purpose of this project is the discovery in detail UNIX mechanism - `pipe`.
+The purpose of this project is the discovery in detail UNIX mechanism - `pipe`.<br>
 You can read task: [`pipex.subject.pdf`](subject/pipex.subject.pdf)
 
 

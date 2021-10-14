@@ -1,7 +1,7 @@
 [![eng](img/eng.png)](README.md) ![ru](img/ru.png)
 # `pipex`
 
-Цель данного проекта детальное рассмотрение UNIX механизма `pipe`.
+Цель данного проекта детальное рассмотрение UNIX механизма `pipe`.<br>
 Задание можно прочитать здесь: [`pipex.subject.pdf`](subject/pipex.subject.pdf)
 
 ### Описание основной части
