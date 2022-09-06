@@ -1,9 +1,7 @@
 ![eng](img/eng.png) [![ru](img/ru.png)](README.ru.md)
 # `pipex`
 
-The purpose of this project is the discovery in detail UNIX mechanism - `pipe`.<br>
-You can read task: [`pipex.subject.pdf`](subject/pipex.subject.pdf)
-
+The purpose of this project is the discovery in detail UNIX mechanism - `pipe`.
 
 ### Discription of mandatory part
 The program `pipex` should repeat the behaviour of the next shell command
